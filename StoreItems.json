@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@hlanesams 
+hlanesams
+/
+item-list
+forked from twitchtoolkit/item-list
+0
+0208
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+item-list/StoreItems.json
+@hlanesams
+hlanesams Update StoreItems.json
+Latest commit f1e3917 5 minutes ago
+ History
+ 2 contributors
+@hlanesams@twitchtoolkit
+4679 lines (4679 sloc)  81.9 KB
+  
 {
 	"items" : [
 	{
@@ -379,12 +411,6 @@
 		"defname": "Cassowary"
 	},
 	{
-		"abr": "cassowaryegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCassowaryFertilized"
-	},
-	{
 		"abr": "cat",
 		"price": 167,
 		"category": "Animal",
@@ -443,18 +469,6 @@
 		"price": 83,
 		"category": "Animal",
 		"defname": "Chicken"
-	},
-	{
-		"abr": "chickenegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggChickenFertilized"
-	},
-	{
-		"abr": "chickenegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenmeat",
@@ -523,12 +537,6 @@
 		"defname": "Cobra"
 	},
 	{
-		"abr": "cobraegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCobraFertilized"
-	},
-	{
 		"abr": "cobrameat",
 		"price": 3,
 		"category": "Meat",
@@ -563,12 +571,6 @@
 		"price": 168,
 		"category": "Noble apparel",
 		"defname": "Apparel_Corset"
-	},
-	{
-		"abr": "cougar",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Cougar"
 	},
 	{
 		"abr": "cougarmeat",
@@ -709,18 +711,6 @@
 		"defname": "Duck"
 	},
 	{
-		"abr": "duckegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggDuckFertilized"
-	},
-	{
-		"abr": "duckegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggDuckUnfertilized"
-	},
-	{
 		"abr": "duckmeat",
 		"price": 3,
 		"category": "Meat",
@@ -851,12 +841,6 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "Emu"
-	},
-	{
-		"abr": "emuegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "endtable",
@@ -1037,18 +1021,6 @@
 		"price": 150,
 		"category": "Animal",
 		"defname": "Goose"
-	},
-	{
-		"abr": "gooseegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggGooseFertilized"
-	},
-	{
-		"abr": "gooseegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "grandmeditationthrone",
@@ -1309,12 +1281,6 @@
 		"defname": "Iguana"
 	},
 	{
-		"abr": "iguanaegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggIguanaFertilized"
-	},
-	{
 		"abr": "iguanameat",
 		"price": 3,
 		"category": "Meat",
@@ -1567,12 +1533,6 @@
 		"defname": "Throne"
 	},
 	{
-		"abr": "megascarab",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Megascarab"
-	},
-	{
 		"abr": "megascreentelevision",
 		"price": 2475,
 		"category": "Recreation",
@@ -1595,12 +1555,6 @@
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
-	},
-	{
-		"abr": "megaspider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Megaspider"
 	},
 	{
 		"abr": "milk",
@@ -1805,12 +1759,6 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "Ostrich"
-	},
-	{
-		"abr": "ostrichegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "packagedsurvivalmeal",
@@ -2485,12 +2433,6 @@
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
-		"abr": "spelopede",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Spelopede"
-	},
-	{
 		"abr": "spiketrap",
 		"price": 169,
 		"category": "Security",
@@ -2737,12 +2679,6 @@
 		"defname": "Tortoise"
 	},
 	{
-		"abr": "tortoiseegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggTortoiseFertilized"
-	},
-	{
 		"abr": "tortoisemeat",
 		"price": 3,
 		"category": "Meat",
@@ -2797,12 +2733,6 @@
 		"defname": "Turkey"
 	},
 	{
-		"abr": "turkeyegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggTurkeyFertilized"
-	},
-	{
 		"abr": "turkeymeat",
 		"price": 3,
 		"category": "Meat",
@@ -2813,30 +2743,6 @@
 		"price": 667,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRedVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightBlueVII"
 	},
 	{
 		"abr": "circuitbreaker",
@@ -2857,28 +2763,10 @@
 		"defname": "VHE_TableBarber"
 	},
 	{
-		"abr": "blueblade",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Blueblade"
-	},
-	{
 		"abr": "bluebladefilet",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Blueblade"
-	},
-	{
-		"abr": "mashgon",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Mashgon"
-	},
-	{
-		"abr": "oyster",
-		"price": -10,
-		"category": "Foods",
-		"defname": "Oyster"
 	},
 	{
 		"abr": "pearl",
@@ -2887,22 +2775,10 @@
 		"defname": "Pearl"
 	},
 	{
-		"abr": "sduiggles",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Sduiggles"
-	},
-	{
 		"abr": "sduigglestentacles",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Sduiggles"
-	},
-	{
-		"abr": "seasnake",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Seasnake"
 	},
 	{
 		"abr": "seasnakefilet",
@@ -2915,12 +2791,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Mashgon"
-	},
-	{
-		"abr": "tailteeth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Tailteeth"
 	},
 	{
 		"abr": "tailteethleather",
@@ -3137,24 +3007,6 @@
 		"price": 675,
 		"category": "Climate",
 		"defname": "SurroundAirVent"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightYellowVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightMagentaVII"
-	},
-	{
-		"abr": "ahuizotl",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Ahuizotl"
 	},
 	{
 		"abr": "ahuizotlmeat",
@@ -3403,12 +3255,6 @@
 		"defname": "BonePlastic"
 	},
 	{
-		"abr": "chimera",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Chimera"
-	},
-	{
 		"abr": "chimerameat",
 		"price": 3,
 		"category": "Meat",
@@ -3529,77 +3375,6 @@
 		"defname": "TableStonecutterElectric"
 	},
 	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_LesserEarth_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_Earth_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_GreaterEarth_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_LesserFire_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_Fire_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_GreaterFire_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_LesserWater_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_Water_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_GreaterWater_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_LesserWind_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_Wind_ElementalR"
-	},
-	{
-		"abr": "elementaldust",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_TM_GreaterWind_ElementalR"
-	},
 	{
 		"abr": "elephantbow",
 		"price": 2083,
@@ -3721,12 +3496,6 @@
 		"defname": "SpellOf_Firestorm"
 	},
 	{
-		"abr": "gelatin",
-		"price": -10,
-		"category": "Animal products",
-		"defname": "ROMB_Gelatin"
-	},
-	{
 		"abr": "gemofarcaneinsight",
 		"price": 5000,
 		"category": "Magic artifacts",
@@ -3767,12 +3536,6 @@
 		"price": 1000,
 		"category": "Animal",
 		"defname": "MM_Griffin"
-	},
-	{
-		"abr": "griffinegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "MM_EggGriffinFertilized"
 	},
 	{
 		"abr": "griffinmeat",
@@ -3823,22 +3586,10 @@
 		"defname": "InfusedAmplifier"
 	},
 	{
-		"abr": "kitsune",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Kitsune"
-	},
-	{
 		"abr": "kitsunemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_MM_Kitsune"
-	},
-	{
-		"abr": "lernaeanhydra",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_LernaeanHydra"
 	},
 	{
 		"abr": "lernaeanhydrameat",
@@ -4093,12 +3844,6 @@
 		"defname": "ShredderTurretGunManned"
 	},
 	{
-		"abr": "manticore",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Manticore"
-	},
-	{
 		"abr": "manticoremeat",
 		"price": 3,
 		"category": "Meat",
@@ -4249,12 +3994,6 @@
 		"defname": "ParagonHelm"
 	},
 	{
-		"abr": "pegasus",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Pegasus"
-	},
-	{
 		"abr": "pegasusmeat",
 		"price": 3,
 		"category": "Meat",
@@ -4283,12 +4022,6 @@
 		"price": 6250,
 		"category": "Scrolls",
 		"defname": "SpellOf_Resurrection"
-	},
-	{
-		"abr": "qilin",
-		"price": -10,
-		"category": "Animal",
-		"defname": "MM_Qilin"
 	},
 	{
 		"abr": "qilinmeat",
@@ -4591,48 +4324,6 @@
 		"defname": "RawMagicyte"
 	},
 	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightCyanVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRoseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightVioletVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightAzureVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightSpringGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightChartreuseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightOrangeVII"
-	},
-	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
@@ -4675,5 +4366,5 @@
 		"defname": "VitalsMonitor"
 	},
 	],
-	"total": 874
-}
+	"total": 726
+    }
